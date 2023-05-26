@@ -1,0 +1,9 @@
+name: Xega_Skyblock
+version: '${project.version}'
+main: mc.xega.skyblock.Main
+api-version: 1.19
+authors: [ HellMaster ]
+commands:
+  xega:
+    description: main command for the Xega Skyblock plugin.
+    usage: /<command>
